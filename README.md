@@ -1,2 +1,3 @@
-# openmediavault-osx
-Openmediavault as native MacOS X via Natifier
+# openmediavault for MacOS X
+
+Openmediavault as native MacOS X via Nativefier
