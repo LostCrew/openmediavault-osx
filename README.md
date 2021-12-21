@@ -2,6 +2,8 @@
 
 Build a native MacOS X app for [openmediavault](https://github.com/openmediavault/openmediavault/)'s web based administration with [Nativefier](https://github.com/nativefier/nativefier).
 
+![Screenshot of a MacOS X dock with a running openmediavault app](./screenshot.jpg)
+
 ## Requirements
 
 - An instance of openmediavault reacheable via web, e.g. <http://openmediavault.local>
