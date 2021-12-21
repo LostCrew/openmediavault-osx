@@ -12,7 +12,7 @@ Build a native MacOS X app for [openmediavault](https://github.com/openmediavaul
 
 Run the following command:
 
-```
+```sh
 nativefier 'https://openmediavault.local' --icon openmediavault.icns
 ```
 
