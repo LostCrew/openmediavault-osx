@@ -21,3 +21,7 @@ nativefier 'https://openmediavault.local' --icon openmediavault.icns
 Optionally, move the app to your preferred Applications folder.
 
 Enjoy!
+
+## Contributions
+
+- [Pull Request on nativefier-icons](https://github.com/nativefier/nativefier-icons/pull/101) to add openmediavault icons set
